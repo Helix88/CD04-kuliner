@@ -146,7 +146,7 @@ font-size: 20px;
     display: block;
   }
 
-}
+
 
 @media screen and (max-width: 600px) {
   .topnav.responsive {position: relative;}
@@ -205,4 +205,4 @@ input, textarea, .contact-form{
   text-align: center;
 }
 
-}
+
